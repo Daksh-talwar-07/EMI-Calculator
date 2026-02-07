@@ -16,4 +16,5 @@ A responsive Loan EMI Calculator built using Flask, HTML, and CSS.
 ## How to Run
 1. Install Flask
 2. Run `python app.py`
-3. Open browser at `http://127.0.0.1:5000/`
+3. 🔗 Live Demo: https://emi-calculator-m0my.onrender.com/
+
