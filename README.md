@@ -5,7 +5,6 @@ A responsive Loan EMI Calculator built using Flask, HTML, and CSS.
 ## Features
 - EMI calculation with validation
 - Currency selection
-- Dark / Light mode
 - Mobile responsive UI
 
 ## Tech Stack
